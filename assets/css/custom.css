@@ -63,7 +63,7 @@ body {
 }
 
 .header-stats a {
-  color: rgba(255, 255, 255, 0.95);
+  color: rgba(255, 255, 255, 0.96);
   text-decoration: none;
   transition: all 0.2s ease;
 }
